@@ -1,7 +1,7 @@
 # Python学習ノート
 自分用のPython学習ノートです
 * 以前はGitHub Wikiで書いていましたが、全てIPython Notebookに移行しました
-メインコンテンツは[GiHub Wiki](https://github.com/nakayuk/LearningPython/wiki)
+メインコンテンツは[GiHub Wiki](http://nbviewer.ipython.org/github/nakayuk/LearningPython/blob/master/Home.ipynb?flush_cache=true)
 
 # 目次
 
